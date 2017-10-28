@@ -13,7 +13,7 @@ h1  {
   font-weight: bold;
 }
 
-.menu a {
+a {
   font-size: 18px;
   color: white;
 }
@@ -30,4 +30,13 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+#id {
+  font-size: 11px;
 }
